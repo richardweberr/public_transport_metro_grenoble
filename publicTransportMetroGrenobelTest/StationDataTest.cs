@@ -11,7 +11,7 @@ namespace publicTransportMetroGrenobelTest
         public void ValidReturnTypeOnConnectionTest()
         {
             //ce test n'a aucun sens
-            IRequestOnMetroApi target = new RequestOnMetroApi();
+            IConnectMetroAPI target = new ConnectMetroAPI();
             string result = target.GetRawData();
             Assert.AreEqual(result.GetType(), typeof(string));
             Assert.AreSame(result.GetType(), typeof(string));
@@ -22,10 +22,10 @@ namespace publicTransportMetroGrenobelTest
         public void ValuesTest()
         {
             //init
-            IRequestOnMetroApi fakeRequestOnMetroData = new RequestOnMetroApiFake();
-            StationData target = new StationData(fakeRequestOnMetroData);
+            IConnectMetroAPI fakeRequestOnMetroData = new ConnectMetroAPIFake_StationsCCI600();
+            Stations target = new Stations(fakeRequestOnMetroData);
             //action
-            Dictionary<string, List<string>> result = target.GetStationData();
+            Dictionary<string, List<string>> result = target.GetSortedStationData();
             //assertion
             //Assert.AreEqual(result, cci600);
             Assert.IsTrue(result.ContainsKey("GRENOBLE, CASERNE DE BONNE"));
@@ -59,10 +59,10 @@ namespace publicTransportMetroGrenobelTest
                 {"GRENOBLE, CHAVANT", new List<string>() {"SEM:C1",  "C38:EXP2",  "C38:EXP1",  "C38:6200",  "C38:6080",  "C38:6060"}},
                 {"GRENOBLE, CHAMPOLLION", new List<string>() {"SEM:16"}}
              };
-            IRequestOnMetroApi fakeRequestOnMetroData = new RequestOnMetroApiFake();
-            StationData target = new StationData(fakeRequestOnMetroData);
+            IConnectMetroAPI fakeRequestOnMetroData = new ConnectMetroAPIFake_StationsCCI600();
+            Stations target = new Stations(fakeRequestOnMetroData);
             //action
-            Dictionary<string, List<string>> result = target.GetStationData();
+            Dictionary<string, List<string>> result = target.GetSortedStationData();
             //assertion
             Assert.AreEqual(result, cci600);
             Assert.Equals(result, cci600);

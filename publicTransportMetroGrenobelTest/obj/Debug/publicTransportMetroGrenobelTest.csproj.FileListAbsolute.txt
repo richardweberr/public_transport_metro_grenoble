@@ -9,6 +9,11 @@ C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransport
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.exe
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroLibrary.dll
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.pdb
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.exe.config
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroLibrary.pdb
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\Newtonsoft.Json.xml
@@ -17,6 +22,3 @@ C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransport
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\obj\Debug\publicTransportMetroGrenobelTest.csproj.CopyComplete
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\obj\Debug\publicTransportMetroGrenobelTest.dll
 C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\obj\Debug\publicTransportMetroGrenobelTest.pdb
-C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.exe
-C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.pdb
-C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroGrenobelTest\bin\Debug\publicTransportMetroGrenobel.exe.config

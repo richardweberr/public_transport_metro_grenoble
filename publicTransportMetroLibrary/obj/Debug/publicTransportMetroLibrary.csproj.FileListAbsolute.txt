@@ -1,0 +1,9 @@
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\bin\Debug\publicTransportMetroLibrary.dll
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\bin\Debug\publicTransportMetroLibrary.pdb
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\obj\Debug\publicTransportMetroLibrary.csprojAssemblyReference.cache
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\obj\Debug\publicTransportMetroLibrary.csproj.CoreCompileInputs.cache
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\obj\Debug\publicTransportMetroLibrary.csproj.CopyComplete
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\obj\Debug\publicTransportMetroLibrary.dll
+C:\Users\richard.weber\source\repos\publicTransportMetroGrenobel\publicTransportMetroLibrary\obj\Debug\publicTransportMetroLibrary.pdb

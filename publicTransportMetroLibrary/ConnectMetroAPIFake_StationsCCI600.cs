@@ -1,6 +1,6 @@
 ﻿namespace publicTransportMetroGrenobel
 {
-    public class RequestOnMetroApiFake : IRequestOnMetroApi
+    public class ConnectMetroAPIFake_StationsCCI600 : IConnectMetroAPI
     {
         public string GetRawData()
         {

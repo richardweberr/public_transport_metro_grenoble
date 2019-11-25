@@ -4,12 +4,12 @@ using System.Net;
 
 namespace publicTransportMetroGrenobel
 {
-    public class RequestOnMetroApi : IRequestOnMetroApi
+    public class ConnectMetroAPI : IConnectMetroAPI
     {
         private string _url;
 
 
-        public RequestOnMetroApi(string url = "https://data.metromobilite.fr/api/linesNear/json?x=5.727775&y=45.185541&dist=1000&details=true")
+        public ConnectMetroAPI(string url = "https://data.metromobilite.fr/api/linesNear/json?x=5.727775&y=45.185541&dist=1000&details=true")
         {
             this._url = url;
         }
