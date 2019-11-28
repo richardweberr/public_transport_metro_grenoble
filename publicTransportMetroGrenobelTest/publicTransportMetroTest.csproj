@@ -8,8 +8,8 @@
     <ProjectGuid>{FE962BBE-6E2E-43FC-A445-8F2BA8C7C062}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>publicTransportMetroGrenobelTest</RootNamespace>
-    <AssemblyName>publicTransportMetroGrenobelTest</AssemblyName>
+    <RootNamespace>publicTransportMetrolTest</RootNamespace>
+    <AssemblyName>publicTransportMetroTest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -59,9 +59,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\publicTransportMetroGrenobel\publicTransportMetroGrenobel.csproj">
+    <ProjectReference Include="..\publicTransportMetroGrenobel\publicTransportMetroConsole.csproj">
       <Project>{F6836872-AA2A-40E8-960D-589A39FEF6F2}</Project>
-      <Name>publicTransportMetroGrenobel</Name>
+      <Name>publicTransportMetroConsole</Name>
     </ProjectReference>
     <ProjectReference Include="..\publicTransportMetroLibrary\publicTransportMetroLibrary.csproj">
       <Project>{96196b91-ceed-4944-9828-dcf6cf22ab48}</Project>

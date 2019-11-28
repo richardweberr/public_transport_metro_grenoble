@@ -39,30 +39,5 @@ namespace publicTransportMetroGrenobel
             }
             return stations;
         }
-
-
-        //public Dictionary<string, List<string>> GetStationDataLong()
-        //{
-        //    //convert list of stationModels into dictionnary (name, list of lines)
-        //    Dictionary<string, List<string>> stations = new Dictionary<string, List<string>>();
-        //    foreach (StationModel station in _deserializedStations)
-        //    {
-        //        if (!stations.ContainsKey(station.name))
-        //        {
-        //            stations.Add(station.name, station.lines);
-        //        }
-        //        else
-        //        {
-        //            foreach (string line in station.lines)
-        //            {
-        //                if (!stations[station.name].Contains(line))
-        //                {
-        //                    stations[station.name].Add(line);
-        //                }
-        //            }
-        //        }
-        //    }
-        //    return stations;
-        //}
     }
 }
