@@ -1,4 +1,5 @@
-﻿using publicTransportMetroLibrary;
+﻿using Microsoft.Maps.MapControl.WPF;
+using publicTransportMetroLibrary;
 using publicTransportMetroMap.Model;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -91,8 +92,7 @@ namespace publicTransportMetroMap.ViewModel
             //faked Data
             //DataSelector metroData = new DataSelector(_longX, _latY, _dist, false);
 
-            //Transports = null;
-
+            List<string> listLocation = new List<string>();
             ObservableCollection<TransportModel> transports = new ObservableCollection<TransportModel>();
             Dictionary<string, List<string>> stationsDict = metroData._stations.GetSortedStationData();
             foreach (KeyValuePair<string, List<string>> station in stationsDict)
